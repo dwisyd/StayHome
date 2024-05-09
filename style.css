@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0px;
+    font-size: 16px;  
+    font-family: "Poppins", sans-serif;
+}
+
+.container {
+    margin: 0px;
+    padding-left: 80px;
+    padding-right: 80px;
+    /* box-shadow: 1.5px 1.5px 1.5px 1.5px rgba(132, 131 ,131 , 0.6); */
+}
+
+.logo {
+    width: 150px;
+}
+
+.links a{
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-left: 20px;
+}
+
+.nav{
+    display: flex;  
+    align-items: center;
+    vertical-align: middle;
+    justify-content: space-between;
+}
+
+.nav a{
+    text-decoration: none;
+    color: #000;
+}
+
+.donate {
+    background-color: #3CB5E2;
+    
+}
+
+.hero {
+    background-color: #E1F7FF;
+    color: #3274cc;
+    height: 80vh;
+    padding-top: 80px;
+}
+
+.mt-10{
+    margin-top: 10px;
+}
+
+.mt-20{
+    margin-top: 20px;
+}
+
+.mt-60{
+    margin-top: 60px;
+}
+
+.btn-1 {
+    text-decoration: none;
+    color: white;
+    background-color: #3274CC;
+    padding: 10px 20px;
+    border-radius: 30px;
+}
+
+.btn-2 {
+    text-decoration: none;
+    color: #3274CC;
+    padding: 10px 20px;
+    border: solid 2px #3274CC;
+    border-radius: 30px;
+}
+
+.hero-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.content-1 {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.content-web {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.heading{
+    font-size: 40px;
+
+}
+
+.content-2 {
+    justify-content: center;
+    text-align: center;
+}
+
+.wadah-card{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.card{
+    width: Fixed (239px)px;
+    height: Fixed (324px)px;
+    top: 1386px;
+    left: 296px;
+    padding: 16px 16px 16px 16px;
+    gap: 10px;
+    border-radius: 16px ;
+    opacity: 0px;
+    box-shadow: 0px 4px 8px 0px #00000040;
+
+}
+
+
+
